@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|c:\\users\\user\\onedrive\\desktop\\ky_5\\oop1\\nguyenmanhhung_he172300_oop1\\nguyenmanhhung_he172300_oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|solutionrelative:nguyenmanhhung_he172300_oop1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|c:\\users\\user\\onedrive\\desktop\\ky_5\\oop1\\nguyenmanhhung_he172300_oop1\\nguyenmanhhung_he172300_oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|solutionrelative:nguyenmanhhung_he172300_oop1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|c:\\users\\user\\onedrive\\desktop\\ky_5\\oop1\\nguyenmanhhung_he172300_oop1\\nguyenmanhhung_he172300_oop1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|solutionrelative:nguyenmanhhung_he172300_oop1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|c:\\users\\user\\onedrive\\desktop\\ky_5\\oop1\\nguyenmanhhung_he172300_oop1\\nguyenmanhhung_he172300_oop1\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|solutionrelative:nguyenmanhhung_he172300_oop1\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|c:\\users\\user\\onedrive\\desktop\\ky_5\\oop1\\nguyenmanhhung_he172300_oop1\\nguyenmanhhung_he172300_oop1\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B488EA53-CC94-4338-8F68-2BE262D537DD}|NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1.csproj|solutionrelative:nguyenmanhhung_he172300_oop1\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "NguyenManhHung_He172300_OOP1\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\FullTimeEmployee.cs",
+              "RelativeToolTip": "NguyenManhHung_He172300_OOP1\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:50:55.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "NguyenManhHung_He172300_OOP1\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\PartTimeEmployee.cs",
+              "RelativeToolTip": "NguyenManhHung_He172300_OOP1\\PartTimeEmployee.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA6wBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:40:58.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\Employee.cs",
+              "RelativeDocumentMoniker": "NguyenManhHung_He172300_OOP1\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\Employee.cs",
+              "RelativeToolTip": "NguyenManhHung_He172300_OOP1\\Employee.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwBwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:35:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\IEmployee.cs",
+              "RelativeDocumentMoniker": "NguyenManhHung_He172300_OOP1\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\IEmployee.cs",
+              "RelativeToolTip": "NguyenManhHung_He172300_OOP1\\IEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:31:18.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenManhHung_He172300_OOP1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\OOP1\\NguyenManhHung_He172300_OOP1\\NguyenManhHung_He172300_OOP1\\Program.cs",
+              "RelativeToolTip": "NguyenManhHung_He172300_OOP1\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:30:05.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

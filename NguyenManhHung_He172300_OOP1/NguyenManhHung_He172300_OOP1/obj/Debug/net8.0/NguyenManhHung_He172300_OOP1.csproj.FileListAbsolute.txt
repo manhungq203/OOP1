@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\NguyenManhHung_He172300_OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\NguyenManhHung_He172300_OOP1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\NguyenManhHung_He172300_OOP1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\NguyenManhHung_He172300_OOP1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\bin\Debug\net8.0\NguyenManhHung_He172300_OOP1.exe
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\bin\Debug\net8.0\NguyenManhHung_He172300_OOP1.deps.json
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\bin\Debug\net8.0\NguyenManhHung_He172300_OOP1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\bin\Debug\net8.0\NguyenManhHung_He172300_OOP1.dll
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\bin\Debug\net8.0\NguyenManhHung_He172300_OOP1.pdb
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\NguyenManhHung_He172300_OOP1.dll
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\refint\NguyenManhHung_He172300_OOP1.dll
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\NguyenManhHung_He172300_OOP1.pdb
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\NguyenManhHung_He172300_OOP1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Ky_5\OOP1\NguyenManhHung_He172300_OOP1\NguyenManhHung_He172300_OOP1\obj\Debug\net8.0\ref\NguyenManhHung_He172300_OOP1.dll
